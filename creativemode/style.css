@@ -26,6 +26,7 @@ img
 {
     image-resolution: from-image;
         float: top left;
+    width: 30%;
 }
 h2
 {

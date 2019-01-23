@@ -13,8 +13,52 @@
 }
 ul
 {
-    color: darkgrey;
+    color: currentColor
 }
 h1
 {font-family: fantasy
 }
+h1
+{
+    text-align: center
+}
+img
+{
+    image-resolution: from-image
+}
+img
+{
+    float: top left
+}
+h2
+{
+    text-align: center
+}
+ul
+{
+    text-align: center
+}
+body
+{
+    background-image: url(imagecreatif.jpg)
+}
+h1
+{
+    color: floralwhite
+}
+h1
+{
+    opacity: 0.8
+}
+h3
+{
+    text-align: center
+}
+
+body
+{
+    text-align: center
+}
+body
+{
+    color: floralwhite

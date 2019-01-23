@@ -19,7 +19,7 @@ ul
 h1
 {font-family: fantasy;
     text-align: center;
-    color: floralwhite;
+    color: darkorange;
     opacity: 0.8;
 }
 img
@@ -39,7 +39,7 @@ h3
 body
 {
     text-align: center;
-        color: floralwhite;
+        color: darkorange;
         background-image: url(imagecreatif.jpg);
     font-size: XX-large;
     

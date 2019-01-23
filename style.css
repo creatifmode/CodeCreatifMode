@@ -13,52 +13,32 @@
 }
 ul
 {
-    color: currentColor
+    color: currentColor;
+        text-align: center;
 }
 h1
-{font-family: fantasy
-}
-h1
-{
-    text-align: center
+{font-family: fantasy;
+    text-align: center;
+    color: floralwhite;
+    opacity: 0.8;
 }
 img
 {
-    image-resolution: from-image
-}
-img
-{
-    float: top left
+    image-resolution: from-image;
+        float: top left;
+    width: 30%;
 }
 h2
 {
-    text-align: center
-}
-ul
-{
-    text-align: center
-}
-body
-{
-    background-image: url(imagecreatif.jpg)
-}
-h1
-{
-    color: floralwhite
-}
-h1
-{
-    opacity: 0.8
+    text-align: center;
 }
 h3
 {
-    text-align: center
-}
-
-body
-{
-    text-align: center
+    text-align: center;
 }
 body
 {
-    color: floralwhite
+    text-align: center;
+        color: floralwhite;
+        background-image: url(imagecreatif.jpg);
+}

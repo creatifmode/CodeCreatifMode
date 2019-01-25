@@ -19,12 +19,14 @@ ul
         text-align: center;
     font-size: XX-large;
 }
+
 h1
-{font-family: fantasy;
+{
+    font-family: fantasy;
     text-align: center;
-    color: black;
-    opacity: 0.8;
-    font-size: XX-large;
+    color: white;
+    opacity: 2;
+    font-size: 80px;
 }
 .image
 {
@@ -92,6 +94,7 @@ h1
     opacity: 2;
     font-size: 80px;
 }
+
 .image
 {
     
